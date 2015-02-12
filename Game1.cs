@@ -1,8 +1,4 @@
-//Ruben Borrero
-//0345052
-//HW2
 //Game Programming
-//Professor John Sterling
 
 
 /* Notes
